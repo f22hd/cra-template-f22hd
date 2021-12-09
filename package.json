@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-safscp",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "safscp"
+  ],
+  "description": "The base Safscp typeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/safscp/create-safscp-react-app.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "bugs": {
+    "url": "https://github.com/safscp/create-safscp-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
