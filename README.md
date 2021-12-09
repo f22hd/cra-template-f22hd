@@ -15,6 +15,6 @@ yarn create react-app my-app --template safscp
 ```
 
 For more information, please refer to:
-
+- [custome-template](https://create-react-app.dev/docs/custom-templates)
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
 - [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
