@@ -1,24 +1,24 @@
 {
-  "name": "cra-template-safscp",
+  "name": "cra-template-f22hd",
   "version": "0.0.1",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "typescript",
-    "safscp"
+    "tailwindcss"
   ],
-  "description": "The base Safscp typeScript template for Create React App.",
+  "description": "Development ready react app template with typescript,tailwindcss...etc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/safscp/create-safscp-react-app.git"
+    "url": "https://github.com/f22hd/cra-template-f22hd"
   },
   "license": "MIT",
   "engines": {
     "node": ">=12"
   },
   "bugs": {
-    "url": "https://github.com/safscp/create-safscp-react-app/issues"
+    "url": "https://github.com/f22hd/cra-template-f22hd/issues"
   },
   "files": [
     "template",
