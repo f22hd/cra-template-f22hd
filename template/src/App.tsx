@@ -1,10 +1,10 @@
-import Logo from "assets/images/logo.png";
-import "./App.css";
+
+
 function App() {
   return (
     <div className="App">
       <header className="flex items-center flex-col gap-5">
-        <img src={Logo} className="App-logo" alt="logo" />
+        <img src={"assets/images/logo.png"} className="App-logo" alt="logo" />
         <h1 className="text-3xl font-bold text-red-500 underline">
           Edit <code>src/App.tsx</code> and save to reload.
         </h1>
