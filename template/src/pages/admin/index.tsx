@@ -20,5 +20,5 @@ export default function Admin({ children }: ComponentProps): JSX.Element {
       <h4 className="text-center mt-5">you don't have permission to access</h4>
     );
   }
-  return !loading ? <div>{children}</div> : null;
+  return !loading ? <div>{children}</div> : <div></div>;
 }
