@@ -1,21 +1,21 @@
 import axios from "axios";
-import keycloak from "./keycloak.config";
 
 // Set config defaults when creating the instance
 const axiosObject = axios.create();
 
 axiosObject.interceptors.request.use(
   async function (config) {
-    // Do something before request is sent
-    if (keycloak?.token) {
-      await keycloak.updateToken(5);
+    // Do something before request is sent such as attaching auth token
+    /*
+    if (token) {
       config = {
         ...config,
         headers: {
-          authorization: `Bearer ${keycloak?.token}`,
+          authorization: `Bearer ${token}`,
         },
       };
     }
+    */
     return config;
   },
   function (error) {
