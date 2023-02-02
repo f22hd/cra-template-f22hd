@@ -1,20 +1,13 @@
-# cra-template-safscp
+# cra-template-f22hd
 
-This is the official Safscp typeScript template for [Create React App](https://github.com/safscp/create-safscp-react-app).
-
-To use this template, add `--template safscp` when creating a new app.
+To use this template, add `--template f22hd` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template safscp
+npx create-react-app my-app --template f22hd
 
 # or
 
-yarn create react-app my-app --template safscp
+yarn create react-app my-app --template f22hd
 ```
-
-For more information, please refer to:
-- [custome-template](https://create-react-app.dev/docs/custom-templates)
-- [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
-- [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
