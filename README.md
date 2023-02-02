@@ -1,4 +1,5 @@
 # cra-template-f22hd
+### A react app template that ready to start your magic 🎉
 
 To use this template, add `--template f22hd` when creating a new app.
 
